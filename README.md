@@ -9,7 +9,6 @@ Each user will need to register and log in.
 The app depends on a mongodb database.
 
 
-Your Goal Is:
 
 1. Dockerize the app
 2. Add a docker compose and making sure the app is working with the database.
