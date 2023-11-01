@@ -21,8 +21,7 @@ The app depends on a mongodb database.
 Notes:
 
 
-hiiiii
-
+rivky rizel
 1. Learn new things as you progress
 2. The real goal is expand your knowledge so keep in mind to read and understand new material.
 3. You can change files from the app if needed(don't change the whole app)
